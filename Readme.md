@@ -1,5 +1,7 @@
 # Autofac.Annotation.Demo
 
+[yuzd/Autofac.Annotation: Autofac extras library for component registration via attributes 用注解来load autofac 摆脱代码或者xml配置和java的spring的注解注入一样的体验](https://github.com/yuzd/Autofac.Annotation )
+
 一个测试代码
 
 ---
